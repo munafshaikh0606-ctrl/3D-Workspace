@@ -1,0 +1,6 @@
+{
+  "name": "Gemini 3D Workspace",
+  "description": "An interactive 3D AI assistant interface featuring a customizable Three.js robot, animated 3D shader environments, real Gemini API integration, and customizable 3D elements.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
